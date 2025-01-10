@@ -1,3 +1,4 @@
+VERSION3.0
 Ethereum Wallet Integration: Securely store and manage your Ethereum-based tokens (ETH, ERC-20).
 
 Transaction Signing: Easily sign transactions and interact with dApps on the Ethereum blockchain.
